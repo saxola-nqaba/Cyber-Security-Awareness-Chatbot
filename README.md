@@ -6,8 +6,6 @@ A WPF desktop chatbot built to help South African citizens identify and protect 
 
 ## Screenshots
 
-> Launch screen with ASCII art logo and voice greeting
-
 
 > Launch screen with ASCII art logo and voice greeting
 
