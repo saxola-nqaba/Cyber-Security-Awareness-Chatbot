@@ -19,6 +19,12 @@ A WPF desktop chatbot built to help South African citizens identify and protect 
 
 ---
 
+## Demo Video
+
+https://youtu.be/I2X56SNpIr8?si=q7acvZqHVkIcg7Mi
+
+---
+
 ## Features
 
 - **Voice greeting** — plays a recorded WAV welcome message on launch
